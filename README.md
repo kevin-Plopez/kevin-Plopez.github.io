@@ -1,1 +1,98 @@
-# kevin-Plopez.github.io
+<html lang="es">
+<head>
+<title>Curriculum vitae</title>
+<link rel="stylesheet" type="text/css" href="recursos/estilos/estilos.css">
+</head>
+<body>
+    <div class="main">
+        <div class="header">
+            <div class="imagenperfil" tabindex="0">
+                <img src="recursos/imagenes/foto_perfil.jpg" alt="Imagen de perfil Kevin López" tabindex="1">
+            </div>
+            <div class="alinearTexto">
+                <h1 class="espacioTexto negrilla " tabindex="2">KEVIN LÓPEZ</h1>
+                <h2 class="espacioTexto colorPrimario tamanoFuente" tabindex="3">ESTUDIANTE</h2>
+            </div>
+            <div class="alinearTextoDerecha">
+                <h2 id= "celular" class="espacioTexto colorPrimario tamanoFuente" tabindex="4">0979201322</h3>
+                <h2 class="espacioTexto colorPrimario tamanoFuente" tabindex="5">kevin.paul29@outlook.com</h3>
+                <h2 class="espacioTexto colorPrimario tamanoFuente" tabindex="6">Quito, Ecuador</h3>
+                <h2 class="espacioTexto colorPrimario tamanoFuente" tabindex="7">Comite del Pueblo</h3>
+            </div>
+        </div>
+        <hr width="100%">
+        <div>
+            <div>
+                <h2 class="colorPrimario negrilla" tabindex="8">Perfil</h2>
+            </div>
+            <div>
+                <p class="justificarTexto" tabindex="9">Soy estudiante de los últimos niveles de la carrera de Ingeniería en Software, 
+                    preparado para aplicar todo lo que he aprendido durante mis años de estudio. 
+                    Mi pasión por el desarrollo de software se ha mantenido desde mis estudios secundarios. 
+                    Tengo la habilidad de trabajar bajo presión y administrar mi tiempo de manera eficiente 
+                    para entregar proyectos y trabajos encomendados dentro de los plazos establecidos. 
+                    Me interesa especialmente el desarrollo de software, el análisis de requerimientos y la 
+                    creación de aplicaciones web para proyectos y aplicaciones en laboratorios. 
+                    Comprometido a establecer y mantener un ambiente de trabajo positivo para todos los 
+                    empleados.
+                </p>
+            </div>
+        </div>
+        <hr width="100%">
+        <div>
+            <div>
+                <h2  class="colorPrimario negrilla" tabindex="10">Educacion</h2>
+            </div>
+            <div>
+                <table class="bordeTabla"   >
+                    <tr>
+                        <th tabindex="11">Institucion</th>
+                        <th tabindex="12">Fecha</th>
+                        <th tabindex="13">Descripcion</th>
+                    </tr>
+                    <tr>
+                        <th class="textoTabla" tabindex="14">Ingeniería en Software, Escuela Politécnica Nacional</th>
+                        <th class="textoTabla" tabindex="15">marzo 2019 — Presente</th>
+                        <th class="textoTabla" tabindex="16">Estudiante de 7mo semestre, actualmente se encuentra planificando su proyecto de titulación. 
+                            Su Índice de Rendimiento Académico (IRA): 32.07pts.</th>
+                    </tr>
+                    <tr>
+                        <th class="textoTabla" tabindex="17">Bachiller en Electrónica de Consumo, Colegio Técnico Salesiano
+                            Don Bosco, Quito </th>
+                        <th class="textoTabla" tabindex="18">septiembre 2012 — julio 2018</th>
+                        <th class="textoTabla" tabindex="19">Para obtener su título realizó en su proyecto de grado 
+                            "Sistema de seguridad de una puerta con sensor de huella dactilar" donde obtuvo la nota de 10/10, 
+                            logrando graduarse de sus estudios secundarios con 8.41/10</th>
+                    </tr>
+                </table>
+            </div>
+        </div>
+        <hr width="100%">
+        <div>
+            <div>
+                <h2 class="colorPrimario negrilla" tabindex="20">Aptitudes</h2>
+            </div>
+            <div class="videoPading">
+                <video src="recursos/videos/video_aptitudes.mp4" alt="Video describiendo las aptitudes de Kevin López" controls tabindex="21">
+            </div>
+        </div>
+        <hr width="100%">
+        <div>
+            <div>
+                <h2 class="colorPrimario negrilla" tabindex="22">Referencias</h2>
+            </div>
+            <div>
+                <table>
+                    <th tabindex="23">Ing. Bryan López</th>
+                    <th class="textoTabla tamanoReferencias ">
+                        <p class="margin" tabindex="24">Xponential</p>
+                        <p class="margin" tabindex="25">Teléfono de contacto: +593 0995005359</p>
+                    </th>
+                </table>
+            </div>
+        </div>
+    </div>
+   
+
+</body>
+</html>
